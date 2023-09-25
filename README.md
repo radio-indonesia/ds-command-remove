@@ -1,5 +1,3 @@
-# dsc-commands-remover
-
 CLI tool to unregister all slash commands for a discord bot
 
 ## Installation
